@@ -1,0 +1,164 @@
+{
+    "paginator":{
+        "itemsPerPage":"Items Per Page : ",
+        "firstPageLabel":"First Page",
+        "lastPageLabel":"Last Page",
+        "nextPageLabel":"Next Page",
+        "previousPageLabel":"Previous Page",
+        "displaying":"Displaying",
+        "outOf":"Out of"
+    },
+    "commonStepper":{
+        "youAreDone":"You are done!",
+        "nextStep":"Next Step"
+    },
+    "iconTooltip":{
+        "copyMessage":"Copied to Clipboard"
+    },
+    "languages":{
+        "english" : "English",
+        "arabic":"Arabic",
+        "turkish":"Turkish",
+        "russian":"Russian"
+    },
+    "user":{
+        "logout":"Logout"
+    },
+    "productsListing":{
+        "title":"Products listing",
+        "addProduct":"Add Product",
+        "howToManageProducts":"How Do I Manage Product Listings ?",
+        "bulkOperations":"Bulk Operations",
+        "customizeTable":"Customize Table"
+    },
+    "productsFilter":{
+        "barCode":"Barcode",
+        "productName":"Product Name",
+        "modelCode":"Model Code",
+        "stockCode":"Stock Code",
+        "brand":"Brand",
+        "category":"Category",
+        "reasonForSale":"Reason For Sale",
+        "filter":"Filter",
+        "cancel":"Cancel"
+    },
+    "productTabs":{
+        "all":"All",
+        "onSale":"On Sale",
+        "depleted":"Depleted",
+        "toRevise":"To Revise",
+        "unavailable":"Unavailable",
+        "locked":"Locked",
+        "archived":"Archived"
+    },
+    "productsListingTable":{
+        "buyBox":"Buy Box",
+        "productName":"Product Name",
+        "barCode":"barcode",
+        "brand":"Brand",
+        "modelCode":"Model Code",
+        "color":"Color",
+        "bodySize":"Body Size",
+        "commission":"Commission",
+        "marketSellingPrice":"Market Selling Price",
+        "otlubSellingPrice":"Otlub Selling Price",
+        "stock":"Stock",
+        "situation":"Situation",
+        "details":"Details"
+    },
+    "productCard":{
+        "productDetails":"Product Details"
+    },
+    "productDetailsDialog":{
+        "productDetails":"Product Details",
+        "sellerStock":"Seller Stock Code",
+        "amountInStock":"Amount In Stock",
+        "amountInStockRequired":"Amount in stock is required",
+        "marketSellingPrice":"Market Selling Price",
+        "marketSellingPriceRequired":"Market selling price is required",
+        "trendyolSellingPrice":"Trendyol Selling Price",
+        "trendyolSellingPriceRequired":"Trendyol selling price is required",
+        "seeOtlub":"See Also Otlub",
+        "confirmAndOpen":"Confirm and Open for Sale"
+    },
+    "singleProduct":{
+        "title":"Create Single Product",
+        "previous":"Previous",
+        "next":"Next",
+        "finish":"Finish",
+        "productInfo":{
+            "title":"Product Information",
+            "productName":"Product Name",
+            "productNameRequired":"Product name is required",
+            "category":"Category",
+            "categoryRequired":"Category is required",
+            "modelCode":"Model Code",
+            "modelCodeRequired":"Model code is required",
+            "brand":"Brand",
+            "brandRequired":"Brand is required",
+            "description":"Description",
+            "descriptionRequired":"Description is required"
+        },
+        "variantInfo":{
+            "title":"Sales And Variant Information",
+            "ageGroup":"Age Group",
+            "ageGroupRequired":"Age group is required",
+            "gender":"Gender",
+            "genderRequired":"Gender is required",
+            "male":"Male",
+            "female":"Female",
+            "optional":"(Optional)",
+            "material":"Material",
+            "model":"Model",
+            "pattern":"Pattern",
+            "primerCondition":"Primer Condition",
+            "productType":"Product Type",
+            "fabricYarn":"Fabric/Yarn Feature",
+            "technical":"Technical"
+        },
+        "productFeatures":{
+            "title":"Product Features"
+        }
+    },
+    "addProductFromCatalogue":{
+        "title":"Add From Otlub Catalog",
+        "description":"You can search the Trendyol catalog by using the Product Name, Barcode or Product link to add the product you want to sell to your store.",
+        "howToButton":"How to Add a Product from the Catalogue",
+        "warnMessage":"You must make sure that the product you will add is the same as the product you have in stock, offering a different product for sale may be considered as 'abuse of the Buybox application' and your sale may be stopped. The fullness of product content areas allows you to be preferred by customers and increase the visibility of your product. To Review the",
+        "rulesClick":"rules, click here",
+        "searchPlaceholder":"Search for Product Name, Barcode or Product Link",
+        "inquiry":"Inquiry",
+        "searchResults":"Search Result",
+        "productsFound":"Products Found"
+    },
+    "fileSelector":{
+        "selectFile":"Select File",
+        "fileName":"File Name",
+        "fileSize":"File Size",
+        "upload":"Upload",
+        "uploadMessage":"The file template you choose to upload must match the upload type."
+    },
+    "bulkOperations":{
+        "title":"Bulk Operations",
+        "howToDo":"How To Do ?",
+        "brandDefinition":{
+            "title":"Define Your Brands",
+            "searchBrand":"Search For Your Brand",
+            "searchPlaceholder":"Search your brand...",
+            "brandDefinitionMessage":"You need to search if your brand is in the system. If the brand you are looking for is not found in the system, you can define your brand.",
+            "define":"Define",
+            "id":"ID",
+            "brand":"Brand",
+            "noBrandsFound":"No Results Found",
+            "warnMessage":"You need to enter the brand name of the product you want to upload in the brand column in the product entry excel!"
+        },
+        "downloadExcel":{
+            "title":"Download Template to Prepare Excel"
+        },
+        "uploadExcel":{
+            "title":"Upload the Excel you have prepared to the System",
+            "chooseInstallationType":"Choose Installation Type",
+            "installationPlaceholder":"Choose Installation Type..."
+        }
+    }
+}

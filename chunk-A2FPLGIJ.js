@@ -1,0 +1,1 @@
+import{A as i,C as t,D as a,E as e,z as o}from"./chunk-QHO5KVQJ.js";var r=o("fadeInOut",[a("void",t({opacity:0,transform:"scale(0.5)"})),a("*",t({opacity:1,transform:"scale(1)"})),e("void <=> *",i("100ms ease-in-out"))]);export{r as a};
